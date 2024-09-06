@@ -1,0 +1,3 @@
+C:/ClionWorkingDirectory/digital_processing_hw01/lazyManPackage/CMakeFiles/digital_processing_hw01.dir
+C:/ClionWorkingDirectory/digital_processing_hw01/lazyManPackage/CMakeFiles/edit_cache.dir
+C:/ClionWorkingDirectory/digital_processing_hw01/lazyManPackage/CMakeFiles/rebuild_cache.dir

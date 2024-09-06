@@ -1,0 +1,3 @@
+C:/ClionWorkingDirectory/digital_image_processing_hw06/Package/CMakeFiles/digital_image_processing_hw06.dir
+C:/ClionWorkingDirectory/digital_image_processing_hw06/Package/CMakeFiles/edit_cache.dir
+C:/ClionWorkingDirectory/digital_image_processing_hw06/Package/CMakeFiles/rebuild_cache.dir
